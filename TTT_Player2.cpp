@@ -43,7 +43,7 @@ void Message() {
 				std::cout << "Opps!!! It's not your turn ... wait for player 1 to play ... !";
 			}
 		}
-		} while (Rpick != "q");
+	} while (Rpick != "q");
 	
 }
 
